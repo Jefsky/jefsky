@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi  👋
+## My name's Jefsky
 <!--
 **Jefsky/jefsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Jefsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefsky&show_icons=true&theme=dracula)
-](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jefsky&show_icons=true&theme=dracula">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefsky">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jefsky&repo=findHouseByMap">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jefsky&repo=findHouseByMap)](https://github.com/anuraghazra/github-readme-stats)
+## ✨ Sites
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefsky)](https://github.com/anuraghazra/github-readme-stats)
+- Blog: <https://www.jefsky.com>
+- GitHub: <https://github.com/Jefsky>
+
+## 💬 Contact me
+
+- Email: <jefsky@jefsky.com>
 
 
