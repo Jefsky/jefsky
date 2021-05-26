@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jefsky&show_icons=true&theme=dracula">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefsky">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jefsky&repo=findHouseByMap">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jefsky&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefsky">
 
 ## ✨ Sites
 
@@ -26,5 +25,8 @@ Here are some ideas to get you started:
 ## 💬 Contact me
 
 - Email: <jefsky@jefsky.com>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jefsky&repo=findHouseByMap">
+
 
 
