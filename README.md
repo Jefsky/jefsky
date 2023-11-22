@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 - Email: <jefsky@jefsky.com>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jefsky&repo=findHouseByMap">
 
 
 
