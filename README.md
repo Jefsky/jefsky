@@ -1,5 +1,5 @@
 ### Hi  👋
-## My name's Jefsky
+## My name's JefskyWong
 <!--
 **Jefsky/jefsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
