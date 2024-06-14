@@ -1,4 +1,4 @@
-### Hi  👋
+### Hi  👋 Nice 2 meet U
 ## My name's JefskyWong
 <!--
 **Jefsky/jefsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jefsky/count.svg)]() visitor, Thank You!🎉🎉
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jefsky&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefsky">
 
