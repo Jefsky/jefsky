@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 💬 Contact me
 
-- Email: <jefsky@jefsky.com>
+- Email: <jefsky@qq.com>
 
 
 
