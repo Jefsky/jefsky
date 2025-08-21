@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-####  Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/jefsky/count.svg)]() visitor, Thank You!🎉🎉
+####  Welcome 🎉🎉
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jefsky&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefsky">
 
