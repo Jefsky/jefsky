@@ -16,12 +16,6 @@
 
 <br/>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=jefsky&show_icons=true&rank_icon=percentile&hide_title=false&hide_border=true&theme=tokyonight&title_color=B7FFD8&icon_color=B7FFD8)](https://github.com/jefsky)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefsky&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/jefsky)
-
-<br/>
-
-<sub>统计卡片由第三方 CDN 异步加载 · 偶有空白为缓存或未命中限速属正常</sub>
 
 </div>
 
