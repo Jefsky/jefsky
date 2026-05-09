@@ -31,17 +31,16 @@
 
 | | |
 | :--- | :--- |
-| **Blog / 站点** | *待填写 paste your URL* |
+| **Blog / 站点** | [www.jefsky.com](https://www.jefsky.com) |
 | **GitHub** | [github.com/jefsky](https://github.com/jefsky) |
 
 ## 联系我 Contact
 
-- **Email：** *待填写 your@email*
+- **Email：** jefsky@qq.com
 
 ---
 
 <div align="center">
 
-<sub>Tips：`README.md` 里把「待填写」换成真实链接即可；可把 `tokyonight` 换成你喜欢的主题色。</sub>
 
 </div>
