@@ -1,34 +1,56 @@
 <div align="center">
 
-### Jefsky Wong · `@jefsky`
+```
+ ██████╗ ██╗███╗   ██╗███████╗███╗   ███╗ ██████╗ ██████╗ ██╗██████╗ ██╗ ██████╗ ███╗   ██╗
+██╔═══██╗██║████╗  ██║██╔════╝████╗ ████║██╔═══██╗██╔══██╗██║██╔══██╗██║██╔═══██╗████╗  ██║
+██║   ██║██║██╔██╗ ██║█████╗  ██╔████╔██║██║   ██║██████╔╝██║██████╔╝██║██║   ██║██╔██╗ ██║
+██║   ██║██║██║╚██╗██║██╔══╝  ██║╚██╔╝██║██║   ██║██╔══██╗██║██╔══██╗██║██║   ██║██║╚██╗██║
+╚██████╔╝██║██║ ╚████║███████╗██║ ╚═╝ ██║╚██████╔╝██████╔╝██║██║  ██║██║╚██████╔╝██║ ╚████║
+ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
 
-**欢迎来到我的主页 — 做点有意思的东西。**  
-<sub>Building tools · Open source · Practical experiments · PRs welcome</sub>
+**Jefsky Wong** · `@jefsky`
 
-<br/>
+做点有意思的东西。
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&pause=700&color=B7FFD8&center=true&vCenter=true&width=420&lines=Nice+to+meet+you+%F0%9F%91%8B;shipping+incremental+wins;hacking+without+the+hype" alt="" />
+---
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-jefsky-0c1117?style=for-the-badge&logo=github)](https://github.com/jefsky)
-[![Profile views](https://komarev.com/ghpvc/?username=jefsky&label=views&color=0891b2&style=flat)](https://github.com/jefsky)
-
-<br/>
-
+_build tools · ship open source · practical experiments · PRs welcome_
 
 </div>
 
 ---
 
-## 链接 Links
+## 最近的贡献 Recent Contributions
+
+<!-- contribution start -->
+| 项目 | PR | 描述 |
+|:---|:---|:---|
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | [#13855](https://github.com/Comfy-Org/ComfyUI/pull/13855) | `GET /history` 参数校验：无效值从 500 改为 400 |
+| [ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) | [#12192](https://github.com/Comfy-Org/ComfyUI_frontend/pull/12192) | 折叠节点对齐算法 + Alt+Arrow 快捷键修复 |
+| [OpenClaw](https://github.com/openclaw/openclaw) | [#81068](https://github.com/openclaw/openclaw/pull/81068) | `status --json` stdout 泄漏修复 |
+<!-- contribution end -->
+
+## 统计 Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefsky&theme=react&border_radius=8&border_color=2dd4bf&title_color=B7FFD8&text_color=94a3b8&icon_color=2dd4bf&ring_color=2dd4bf)
+
+![Profile views](https://komarev.com/ghpvc/?username=jefsky&label=views&color=0891b2&style=flat&logo=none)
+
+</div>
+
+---
+
+## 站点 Sites
 
 | | |
-| :--- | :--- |
-| **Blog / 站点** | [www.jefsky.com](https://www.jefsky.com) |
+|:---|:---|
+| **Blog** | [www.jefsky.com](https://www.jefsky.com) |
 | **GitHub** | [github.com/jefsky](https://github.com/jefsky) |
 
-## 联系我 Contact
+## 联系方式 Contact
 
 - **Email：** jefsky@qq.com
 
@@ -36,5 +58,11 @@
 
 <div align="center">
 
+```
+```
+ _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _
+| |_| | | | | | | | |_| | |_| | | | | |_| | | | | |_| | | |
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+```
 
 </div>
