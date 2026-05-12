@@ -58,11 +58,7 @@ _build tools · ship open source · practical experiments · PRs welcome_
 
 <div align="center">
 
-```
-```
- _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _
-| |_| | | | | | | | |_| | |_| | | | | |_| | | | | |_| | | |
-|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
-```
+ Built with curiosity.  
+ Shipped with coffee.
 
 </div>
